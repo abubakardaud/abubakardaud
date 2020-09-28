@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I'm Abu bakar Daud, check out my website for more. 
+🔭 Currently interested in data engineering, 📚 Looking to learn cryptography. 
+
+
+
 
 <!--
 **abubakardaud/abubakardaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
