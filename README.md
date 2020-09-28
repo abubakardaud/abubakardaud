@@ -2,6 +2,8 @@
 
 I'm Abu bakar Daud, check out my website for more. 
 
+I'm a Hon. Math / CS Student @ McGill 💻
+
 🔭 Currently interested in data engineering, 📚 Looking to learn cryptography. 
 
 
