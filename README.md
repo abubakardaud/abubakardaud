@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abu bakar Daud, check out my website for more. 
+I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) for more. 
 
 I'm a Hon. Math / CS Student @ McGill 💻
 
