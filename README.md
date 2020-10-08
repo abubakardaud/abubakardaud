@@ -4,7 +4,7 @@ I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) or [r
 
 I'm a Hon. Math / CS Student @ McGill 💻
 
-🔭 Currently interested in data engineering, 📚 Looking to learn cryptography. 
+🔭 Currently interested in data engineering, 📚 Looking to learn cryptography or data science
 
 
 
