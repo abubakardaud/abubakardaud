@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) or [resume](https://www.github.com/abubakardaud/resume) for more. 
+I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) or [resume](https://github.com/abubakardaud/resume/blob/main/GPACVNEW.pdf) for more. 
 
 I'm a Hon. Math / CS Student @ McGill 💻
 
