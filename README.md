@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) or [resume](https://github.com/abubakardaud/resume/blob/main/GPACVNEW.pdf) for more. 
+I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) for more. 
 
 I'm a Hon. Math / CS Student @ McGill 💻
 
-🔭 Currently interested in data engineering, 📚 Looking to learn cryptography or data science
+🔭 Currently interested in data engineering, 📚 Looking to learn data science, project management and soft eng! ✨
 
 
 
