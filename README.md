@@ -6,6 +6,8 @@ I'm a Hon. Math / CS Student @ McGill 💻
 
 🔭 Currently interested in data engineering, 📚 Looking to learn data science, project management and soft eng! ✨
 
+# 🚨🚨 LOOKING FOR PEOPLE TO HELP WITH MAKING A WATERLOO WORKS ALTERNATIVE 🚨🚨 
+
 
 
 
