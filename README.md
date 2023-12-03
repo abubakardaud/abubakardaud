@@ -2,7 +2,7 @@
 
 I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) for more. 
 
-I'm a Hon. Math / CS Student @ McGill 💻
+Hon. Math / CS Student @ McGill 💻 Now at AWS \[Amazon\]
 
 🔭 Currently interested in data engineering, 📚 Looking to learn data science, project management and soft eng! ✨
 
