@@ -4,9 +4,8 @@ I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) for m
 
 Hon. Math / CS Student @ McGill 💻 Now at AWS \[Amazon\]
 
-🔭 Currently interested in data engineering, 📚 Looking to learn data science, project management and soft eng! ✨
+🔭 Currently interested in scaling system
 
-# 🚨🚨 LOOKING FOR HELP WITH A [WATERLOO WORKS ALTERNATIVE](https://github.com/abubakardaud/StudentWorks/): EMAIL ME 🚨🚨 
 
 
 
