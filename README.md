@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Abu bakar Daud, check out my [website](https://abubakardaud.github.io) for more. 
+I'm Abu bakar Daud,
 
-Hon. Math / CS Student @ McGill 💻 Now at AWS \[Amazon\]
-
-🔭 Currently interested in scaling system
+🔭 Currently interested in exploring the world
 
 
 
